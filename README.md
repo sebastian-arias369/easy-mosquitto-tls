@@ -4,7 +4,7 @@ Este tutorial explica cómo levantar un servidor MQTT con Mosquitto utilizando D
 
 ## 🧾 Requisitos previos
 
-1. Un dominio válido apuntando al servidor (ejemplo: `uceva-iot-core.freeddns.org`).
+1. Un dominio válido apuntando al servidor (ejemplo: `maquina.dominio.com`).
 2. Acceso root al servidor.
 3. Tener los puertos **80** (HTTP) y **8883** (MQTT sobre TLS) abiertos en el firewall.
 4. Tener instalado **Docker** y **Docker Compose**.
