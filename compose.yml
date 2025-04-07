@@ -1,0 +1,95 @@
+
+services:
+  mosquitto:
+    image: eclipse-mosquitto:2
+    container_name: mosquitto_tls
+    restart: unless-stopped
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+      - ./mosquitto/config/certs:/etc/ssl/certs
+      - ./certs:/etc/letsencrypt
+      - ./mosquitto/run:/run
+    ports:
+      - "8883:8883"
+    environment:
+      - DOMAIN=${DOMAIN}
+      - EMAIL=${EMAIL}
+    entrypoint: >
+      sh -c '
+        set -e;
+
+        if [ -f /mosquitto/config/users.txt ] && [ -s /mosquitto/config/users.txt ]; then
+          echo "📂 Generando archivo passwd desde users.txt..."
+          rm -f /mosquitto/config/passwd
+          touch /mosquitto/config/passwd
+          chown 1883:1883 /mosquitto/config/passwd
+          chmod 600 /mosquitto/config/passwd
+          while IFS=":" read -r usr pwd || [ -n "$$usr" ]; do
+            if [ -n "$$usr" ] && [ -n "$$pwd" ] && [ "$${usr:0:1}" != "#" ]; then
+              echo "➕ Agregando usuario $$usr"
+              mosquitto_passwd -b /mosquitto/config/passwd "$$usr" "$$pwd"
+            fi
+          done < /mosquitto/config/users.txt
+        else
+          echo "⚠️  users.txt no existe o está vacío"
+        fi
+        if [ ! -s /mosquitto/config/mosquitto.conf ]; then
+          echo "Creando el archivo de configuracion de mosquitto..."
+          printf "%s\\n" \
+            "persistence true" \
+            "persistence_location /var/lib/mosquitto/" \
+            "log_dest file /mosquitto/log/mosquitto.log" \
+            "listener 1883 0.0.0.0" \
+            "allow_anonymous false" \
+            "listener 8883 0.0.0.0" \
+            "require_certificate false" \
+            "cafile /etc/ssl/certs/ISRG_Root_X1.pem" \
+            "tls_version tlsv1.2" \
+            "persistent_client_expiration 1h" \
+            "acl_file /mosquitto/config/acl" \
+            "password_file /mosquitto/config/passwd" \
+            "max_connections -1" \
+            "certfile /etc/letsencrypt/live/${DOMAIN}/fullchain.pem" \
+            "keyfile /etc/letsencrypt/live/${DOMAIN}/privkey.pem" \
+            > /mosquitto/config/mosquitto.conf;
+        else
+          echo "El archivo de configuracion de mosquitto ya existe, omitiendo su creacion"
+        fi;
+
+        exec mosquitto -v -c /mosquitto/config/mosquitto.conf'
+    networks:
+      - mqtt_net
+
+  certbot:
+    image: certbot/certbot
+    container_name: certbot_tls
+    volumes:
+      - ./certs:/etc/letsencrypt
+    ports:
+      - "80:80"
+    entrypoint: >
+      sh -c "if [ -f /etc/letsencrypt/live/$DOMAIN/fullchain.pem ]; then
+        echo '✅ Certificado ya existe. No se emitirá uno nuevo.';
+      elif [ -f /etc/letsencrypt/renewal/$DOMAIN.conf ]; then
+        echo '⚠️ Certificado ya fue solicitado recientemente. Esperando renovación automática.';
+      else
+        certbot certonly --standalone --agree-tos --no-eff-email --non-interactive \
+        --preferred-challenges http \
+        --domains $DOMAIN \
+        --email $EMAIL;
+        --deploy-hook 'chmod -R 644 /etc/letsencrypt/live /etc/letsencrypt/archive && chown -R 1883:1883 /etc/letsencrypt';
+      fi"
+    environment:
+      - DOMAIN=${DOMAIN}
+      - EMAIL=${EMAIL}
+    networks:
+      - mqtt_net
+
+
+networks:
+  mqtt_net:
+    driver: bridge
+
+ #     certonly --standalone --agree-tos --no-eff-email --staple-ocsp --preferred-challenges http -m ${EMAIL} -d ${DOMAIN}

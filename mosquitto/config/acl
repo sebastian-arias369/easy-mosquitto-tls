@@ -1,0 +1,9 @@
+pattern read +/+/+/+/%u/in
+pattern readwrite +/+/+/+/%u/out
+
+user admin
+topic readwrite #
+
+user admin2
+pattern write +/+/+/+/%u/in
+pattern read +/+/+/+/%u/out
