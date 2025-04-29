@@ -92,17 +92,67 @@ dig +short maquina.dominio.com
 
 ### 5. Ejecutar el stack
 
+#### Primer uso (generación inicial de certificados)
+
+**1. Corre solo certbot para generar el certificado**
+
 ```bash
-docker compose up -d
+docker compose up certbot
 ```
 
-Esto:
-- Genera el certificado TLS si no existe.
-- Genera el archivo `passwd` a partir de `users.txt`.
-- Crea el archivo `mosquitto.conf` si no existe.
-- Levanta Mosquitto escuchando en TLS y autenticando usuarios.
+Este paso solicitará un nuevo certificado TLS si no existe.
+
+**2. Corre el script `setup.sh` para corregir permisos**
+
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+Este script ajustará los permisos de los certificados y archivos necesarios para que `mosquitto` funcione correctamente.
+
+**3. Ahora puedes levantar Mosquitto**
+
+```bash
+docker compose up mosquitto
+```
+
+✅ Mosquitto arrancará usando el certificado TLS emitido.
 
 ---
+
+#### Uso posterior (con certificados ya emitidos)
+
+Si ya tienes certificados, simplemente ejecuta:
+
+```bash
+./setup.sh
+docker compose up
+```
+
+Esto corregirá permisos si es necesario y levantará el broker directamente.
+
+---
+
+#### Notas de seguridad
+
+- No publiques llaves privadas (`privkey.pem`).
+- Asegúrate de no dejar archivos sensibles sin proteger.
+- `users.txt` contiene contraseñas en texto plano y solo debe existir temporalmente para crear el archivo `passwd`. **Elimina `users.txt` después de la primera creación** si es posible.
+
+---
+
+#### `.gitignore` recomendado
+
+Dentro de `certs/`, crea un archivo `.gitignore` que contenga:
+
+```
+*
+!.gitignore
+```
+
+Esto evitará subir los certificados reales a GitHub accidentalmente.
+
 
 ## 📡 Pruebas con MQTT
 
@@ -110,8 +160,7 @@ Esto:
 Para conectarte al servidor MQTT desde otro equipo con TLS como suscriptor:
 
 ```bash
-sudo mosquitto_sub -h maquina.dominio.com -p 8883 \
-  --cafile /etc/ssl/certs/ISRG_Root_X1.pem -u admin -P admin1234 \
+sudo mosquitto_sub -h maquina.dominio.com -p 8883 -u admin -P admin1234 \
   -t "test/topic" --tls-version tlsv1.2
 ```
 
@@ -119,8 +168,7 @@ sudo mosquitto_sub -h maquina.dominio.com -p 8883 \
 Para conectarte al servidor MQTT desde otro equipo con TLS como publicador:
 
 ```bash
-sudo mosquitto_pub -h maquina.dominio.com -p 8883 \
-  --cafile /etc/ssl/certs/ISRG_Root_X1.pem -u admin -P admin1234 \
+sudo mosquitto_pub -h maquina.dominio.com -p 8883 -u admin -P admin1234 \
   -t "test/topic" --tls-version tlsv1.2 -m "Encender"
 ```
 
