@@ -24,7 +24,7 @@ services:
           echo "📂 Generando archivo passwd desde users.txt..."
           rm -f /mosquitto/config/passwd
           touch /mosquitto/config/passwd
-          chown 1883:1883 /mosquitto/config/passwd
+          chown root:root /mosquitto/config/passwd
           chmod 600 /mosquitto/config/passwd
           while IFS=":" read -r usr pwd || [ -n "$$usr" ]; do
             if [ -n "$$usr" ] && [ -n "$$pwd" ] && [ "$${usr:0:1}" != "#" ]; then
@@ -32,6 +32,8 @@ services:
               mosquitto_passwd -b /mosquitto/config/passwd "$$usr" "$$pwd"
             fi
           done < /mosquitto/config/users.txt
+          chown mosquitto:mosquitto /mosquitto/config/passwd
+          chmod 600 /mosquitto/config/passwd
         else
           echo "⚠️  users.txt no existe o está vacío"
         fi
@@ -41,7 +43,6 @@ services:
             "persistence true" \
             "persistence_location /var/lib/mosquitto/" \
             "log_dest file /mosquitto/log/mosquitto.log" \
-            "listener 1883 0.0.0.0" \
             "allow_anonymous false" \
             "listener 8883 0.0.0.0" \
             "require_certificate false" \
@@ -57,6 +58,18 @@ services:
         else
           echo "El archivo de configuracion de mosquitto ya existe, omitiendo su creacion"
         fi;
+        while [ ! -f /etc/letsencrypt/live/${DOMAIN}/fullchain.pem ]; do
+          echo "Esperando a que el certificado esté disponible..."
+          sleep 5
+        done
+
+        # Nuevo bloque de verificación
+        echo "✅ Archivo passwd generado. Verificando existencia..."
+        while [ ! -s /mosquitto/config/passwd ]; do
+          echo "⏳ Esperando que el archivo passwd no esté vacío..."
+          sleep 1
+        done
+        echo "✅ Archivo passwd listo. Iniciando Mosquitto..."
 
         exec mosquitto -v -c /mosquitto/config/mosquitto.conf'
     networks:
@@ -70,17 +83,17 @@ services:
     ports:
       - "80:80"
     entrypoint: >
-      sh -c "if [ -f /etc/letsencrypt/live/$DOMAIN/fullchain.pem ]; then
-        echo '✅ Certificado ya existe. No se emitirá uno nuevo.';
-      elif [ -f /etc/letsencrypt/renewal/$DOMAIN.conf ]; then
-        echo '⚠️ Certificado ya fue solicitado recientemente. Esperando renovación automática.';
-      else
-        certbot certonly --standalone --agree-tos --no-eff-email --non-interactive \
-        --preferred-challenges http \
-        --domains $DOMAIN \
-        --email $EMAIL;
-        --deploy-hook 'chmod -R 644 /etc/letsencrypt/live /etc/letsencrypt/archive && chown -R 1883:1883 /etc/letsencrypt';
-      fi"
+      sh -c "
+        DOMAIN=$DOMAIN
+        EMAIL=$EMAIL
+        if [ -f /etc/letsencrypt/live/$DOMAIN/fullchain.pem ]; then
+          echo '✅ Certificado ya existe. No se emitirá uno nuevo.';
+        elif [ -f /etc/letsencrypt/renewal/$DOMAIN.conf ]; then
+          echo '⚠️ Certificado ya fue solicitado recientemente. Esperando renovación automática.';
+        else
+          certbot certonly --standalone --agree-tos --no-eff-email --non-interactive --preferred-challenges http --domains $DOMAIN --email $EMAIL --deploy-hook 'chmod -R 644 /etc/letsencrypt/live /etc/letsencrypt/archive && chown -R 1883:1883 /etc/letsencrypt';
+        fi
+      "
     environment:
       - DOMAIN=${DOMAIN}
       - EMAIL=${EMAIL}
