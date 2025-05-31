@@ -1,1 +1,1188 @@
 
+1748320903: mosquitto version 2.0.21 starting
+1748320903: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320903: Opening ipv4 listen socket on port 8883.
+1748320903: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320903: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320903: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320903: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320903: mosquitto version 2.0.21 starting
+1748320903: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320903: Opening ipv4 listen socket on port 8883.
+1748320903: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320903: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320903: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320903: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320904: mosquitto version 2.0.21 starting
+1748320904: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320904: Opening ipv4 listen socket on port 8883.
+1748320904: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320904: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320904: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320904: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320905: mosquitto version 2.0.21 starting
+1748320905: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320905: Opening ipv4 listen socket on port 8883.
+1748320905: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320905: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320905: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320905: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320906: mosquitto version 2.0.21 starting
+1748320906: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320906: Opening ipv4 listen socket on port 8883.
+1748320906: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320906: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320906: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320906: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320908: mosquitto version 2.0.21 starting
+1748320908: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320908: Opening ipv4 listen socket on port 8883.
+1748320908: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320908: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320908: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320908: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320911: mosquitto version 2.0.21 starting
+1748320911: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320911: Opening ipv4 listen socket on port 8883.
+1748320911: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320911: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320911: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320911: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320922: mosquitto version 2.0.21 starting
+1748320922: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320922: Opening ipv4 listen socket on port 8883.
+1748320922: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320922: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320922: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320922: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320923: mosquitto version 2.0.21 starting
+1748320923: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320923: Opening ipv4 listen socket on port 8883.
+1748320923: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320923: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320923: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320923: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320923: mosquitto version 2.0.21 starting
+1748320923: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320923: Opening ipv4 listen socket on port 8883.
+1748320923: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320923: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320923: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320923: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320924: mosquitto version 2.0.21 starting
+1748320924: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320924: Opening ipv4 listen socket on port 8883.
+1748320924: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320924: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320924: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320924: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320925: mosquitto version 2.0.21 starting
+1748320925: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320925: Opening ipv4 listen socket on port 8883.
+1748320925: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320925: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320925: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320925: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320927: mosquitto version 2.0.21 starting
+1748320927: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320927: Opening ipv4 listen socket on port 8883.
+1748320927: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320927: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320927: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320927: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320931: mosquitto version 2.0.21 starting
+1748320931: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320931: Opening ipv4 listen socket on port 8883.
+1748320931: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320931: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320931: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320931: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320937: mosquitto version 2.0.21 starting
+1748320937: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320937: Opening ipv4 listen socket on port 8883.
+1748320937: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320937: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320937: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320937: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320950: mosquitto version 2.0.21 starting
+1748320950: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320950: Opening ipv4 listen socket on port 8883.
+1748320950: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320950: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320950: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320950: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748320976: mosquitto version 2.0.21 starting
+1748320976: Config loaded from /mosquitto/config/mosquitto.conf.
+1748320976: Opening ipv4 listen socket on port 8883.
+1748320976: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748320976: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748320976: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748320976: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321028: mosquitto version 2.0.21 starting
+1748321028: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321028: Opening ipv4 listen socket on port 8883.
+1748321028: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321028: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321028: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321028: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321088: mosquitto version 2.0.21 starting
+1748321088: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321088: Opening ipv4 listen socket on port 8883.
+1748321088: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321088: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321088: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321088: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321149: mosquitto version 2.0.21 starting
+1748321149: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321149: Opening ipv4 listen socket on port 8883.
+1748321149: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321149: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321149: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321149: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321209: mosquitto version 2.0.21 starting
+1748321209: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321209: Opening ipv4 listen socket on port 8883.
+1748321209: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321209: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321209: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321209: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321269: mosquitto version 2.0.21 starting
+1748321269: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321269: Opening ipv4 listen socket on port 8883.
+1748321269: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321269: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321269: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321269: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321330: mosquitto version 2.0.21 starting
+1748321330: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321330: Opening ipv4 listen socket on port 8883.
+1748321330: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321330: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321330: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321330: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321390: mosquitto version 2.0.21 starting
+1748321390: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321390: Opening ipv4 listen socket on port 8883.
+1748321390: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321390: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321390: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321390: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321450: mosquitto version 2.0.21 starting
+1748321450: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321450: Opening ipv4 listen socket on port 8883.
+1748321450: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321450: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321450: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321450: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321511: mosquitto version 2.0.21 starting
+1748321511: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321511: Opening ipv4 listen socket on port 8883.
+1748321511: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321511: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321511: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321511: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321571: mosquitto version 2.0.21 starting
+1748321571: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321571: Opening ipv4 listen socket on port 8883.
+1748321571: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321571: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321571: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321571: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321632: mosquitto version 2.0.21 starting
+1748321632: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321632: Opening ipv4 listen socket on port 8883.
+1748321632: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321632: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321632: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321632: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321692: mosquitto version 2.0.21 starting
+1748321692: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321692: Opening ipv4 listen socket on port 8883.
+1748321692: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321692: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321692: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321692: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321752: mosquitto version 2.0.21 starting
+1748321752: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321752: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748321752: Opening ipv4 listen socket on port 8883.
+1748321752: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321752: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321752: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321752: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321813: mosquitto version 2.0.21 starting
+1748321813: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321813: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748321813: Opening ipv4 listen socket on port 8883.
+1748321813: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321813: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321813: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321813: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321873: mosquitto version 2.0.21 starting
+1748321873: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321873: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748321873: Opening ipv4 listen socket on port 8883.
+1748321873: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321873: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321873: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321873: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321933: mosquitto version 2.0.21 starting
+1748321933: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321933: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748321933: Opening ipv4 listen socket on port 8883.
+1748321933: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321933: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321933: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321933: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748321994: mosquitto version 2.0.21 starting
+1748321994: Config loaded from /mosquitto/config/mosquitto.conf.
+1748321994: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748321994: Opening ipv4 listen socket on port 8883.
+1748321994: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748321994: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748321994: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748321994: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322054: mosquitto version 2.0.21 starting
+1748322054: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322054: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322054: Opening ipv4 listen socket on port 8883.
+1748322054: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322054: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322054: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322054: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322114: mosquitto version 2.0.21 starting
+1748322114: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322114: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322114: Opening ipv4 listen socket on port 8883.
+1748322114: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322114: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322114: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322114: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322175: mosquitto version 2.0.21 starting
+1748322175: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322175: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322175: Opening ipv4 listen socket on port 8883.
+1748322175: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322175: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322175: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322175: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322244: mosquitto version 2.0.21 starting
+1748322244: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322244: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322244: Opening ipv4 listen socket on port 8883.
+1748322244: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322244: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322244: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322244: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322245: mosquitto version 2.0.21 starting
+1748322245: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322245: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322245: Opening ipv4 listen socket on port 8883.
+1748322245: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322245: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322245: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322245: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322245: mosquitto version 2.0.21 starting
+1748322245: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322245: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322245: Opening ipv4 listen socket on port 8883.
+1748322245: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322245: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322245: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322245: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322246: mosquitto version 2.0.21 starting
+1748322246: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322246: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322246: Opening ipv4 listen socket on port 8883.
+1748322246: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322246: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322246: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322246: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322247: mosquitto version 2.0.21 starting
+1748322247: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322247: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322247: Opening ipv4 listen socket on port 8883.
+1748322247: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322247: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322247: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322247: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322249: mosquitto version 2.0.21 starting
+1748322249: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322249: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322249: Opening ipv4 listen socket on port 8883.
+1748322249: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322249: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322249: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322249: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322252: mosquitto version 2.0.21 starting
+1748322252: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322252: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322252: Opening ipv4 listen socket on port 8883.
+1748322252: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322252: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322252: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322252: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322259: mosquitto version 2.0.21 starting
+1748322259: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322259: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322259: Opening ipv4 listen socket on port 8883.
+1748322259: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322259: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322259: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322259: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322272: mosquitto version 2.0.21 starting
+1748322272: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322272: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322272: Opening ipv4 listen socket on port 8883.
+1748322272: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322272: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322272: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322272: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322298: mosquitto version 2.0.21 starting
+1748322298: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322298: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322298: Opening ipv4 listen socket on port 8883.
+1748322298: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322298: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322298: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322298: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322350: mosquitto version 2.0.21 starting
+1748322350: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322350: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322350: Opening ipv4 listen socket on port 8883.
+1748322350: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322350: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322350: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322350: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322511: mosquitto version 2.0.21 starting
+1748322511: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322511: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322511: Opening ipv4 listen socket on port 8883.
+1748322511: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322511: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322511: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322511: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322511: mosquitto version 2.0.21 starting
+1748322511: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322511: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322511: Opening ipv4 listen socket on port 8883.
+1748322511: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322511: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322511: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322511: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322512: mosquitto version 2.0.21 starting
+1748322512: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322512: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322512: Opening ipv4 listen socket on port 8883.
+1748322512: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322512: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322512: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322512: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322512: mosquitto version 2.0.21 starting
+1748322512: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322512: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322512: Opening ipv4 listen socket on port 8883.
+1748322512: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322512: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322512: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322512: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322514: mosquitto version 2.0.21 starting
+1748322514: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322514: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322514: Opening ipv4 listen socket on port 8883.
+1748322514: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322514: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322514: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322514: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322515: mosquitto version 2.0.21 starting
+1748322515: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322515: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322515: Opening ipv4 listen socket on port 8883.
+1748322515: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322515: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322515: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322515: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322519: mosquitto version 2.0.21 starting
+1748322519: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322519: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322519: Opening ipv4 listen socket on port 8883.
+1748322519: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322519: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322519: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322519: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322526: mosquitto version 2.0.21 starting
+1748322526: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322526: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322526: Opening ipv4 listen socket on port 8883.
+1748322526: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322526: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322526: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322526: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322539: mosquitto version 2.0.21 starting
+1748322539: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322539: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322539: Opening ipv4 listen socket on port 8883.
+1748322539: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322539: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322539: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322539: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322565: mosquitto version 2.0.21 starting
+1748322565: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322565: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322565: Opening ipv4 listen socket on port 8883.
+1748322565: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322565: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322565: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322565: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322975: mosquitto version 2.0.21 starting
+1748322975: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322975: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322975: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748322975: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748322975: Opening ipv4 listen socket on port 8883.
+1748322975: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322975: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322975: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322975: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322975: mosquitto version 2.0.21 starting
+1748322975: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322975: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322975: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748322975: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748322975: Opening ipv4 listen socket on port 8883.
+1748322975: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322975: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322975: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322975: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322976: mosquitto version 2.0.21 starting
+1748322976: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322976: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322976: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748322976: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748322976: Opening ipv4 listen socket on port 8883.
+1748322976: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322976: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322976: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322976: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322976: mosquitto version 2.0.21 starting
+1748322976: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322976: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322976: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748322976: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748322976: Opening ipv4 listen socket on port 8883.
+1748322976: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322976: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322976: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322976: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322978: mosquitto version 2.0.21 starting
+1748322978: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322978: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322978: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748322978: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748322978: Opening ipv4 listen socket on port 8883.
+1748322978: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322978: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322978: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322978: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322979: mosquitto version 2.0.21 starting
+1748322979: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322979: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322979: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748322979: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748322979: Opening ipv4 listen socket on port 8883.
+1748322979: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322979: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322979: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322979: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322983: mosquitto version 2.0.21 starting
+1748322983: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322983: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322983: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748322983: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748322983: Opening ipv4 listen socket on port 8883.
+1748322983: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322983: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322983: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322983: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748322990: mosquitto version 2.0.21 starting
+1748322990: Config loaded from /mosquitto/config/mosquitto.conf.
+1748322990: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748322990: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748322990: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748322990: Opening ipv4 listen socket on port 8883.
+1748322990: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748322990: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748322990: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748322990: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748323003: mosquitto version 2.0.21 starting
+1748323003: Config loaded from /mosquitto/config/mosquitto.conf.
+1748323003: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748323003: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748323003: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748323003: Opening ipv4 listen socket on port 8883.
+1748323003: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748323003: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748323003: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748323003: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748323029: mosquitto version 2.0.21 starting
+1748323029: Config loaded from /mosquitto/config/mosquitto.conf.
+1748323029: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748323029: Warning: File /mosquitto/config/acl owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/acl`.
+1748323029: Warning: File /mosquitto/config/acl group is not mosquitto. Future versions will refuse to load this file.
+1748323029: Opening ipv4 listen socket on port 8883.
+1748323029: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748323029: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748323029: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748323029: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748323080: mosquitto version 2.0.21 starting
+1748323080: Config loaded from /mosquitto/config/mosquitto.conf.
+1748323080: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748323080: Opening ipv4 listen socket on port 8883.
+1748323080: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748323080: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748323080: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748323080: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748323141: mosquitto version 2.0.21 starting
+1748323141: Config loaded from /mosquitto/config/mosquitto.conf.
+1748323141: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748323141: Opening ipv4 listen socket on port 8883.
+1748323141: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748323141: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748323141: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748323141: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748323201: mosquitto version 2.0.21 starting
+1748323201: Config loaded from /mosquitto/config/mosquitto.conf.
+1748323201: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748323201: Opening ipv4 listen socket on port 8883.
+1748323201: Error: Unable to load server certificate "/etc/letsencrypt/live/mqtt-iot.freeddns.org/fullchain.pem". Check certfile.
+1748323201: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1748323201: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1748323201: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1748323262: mosquitto version 2.0.21 starting
+1748323262: Config loaded from /mosquitto/config/mosquitto.conf.
+1748323262: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748323262: Opening ipv4 listen socket on port 8883.
+1748323262: mosquitto version 2.0.21 running
+1748323489: mosquitto version 2.0.21 terminating
+1748323489: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748323489: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748323489: Error: No such file or directory.
+1748323505: mosquitto version 2.0.21 starting
+1748323505: Config loaded from /mosquitto/config/mosquitto.conf.
+1748323505: Warning: File /mosquitto/config/acl has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/acl`.
+1748323505: Opening ipv4 listen socket on port 8883.
+1748323505: mosquitto version 2.0.21 running
+1748325306: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748325306: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748325306: Error: No such file or directory.
+1748327107: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748327107: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748327107: Error: No such file or directory.
+1748328908: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748328908: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748328908: Error: No such file or directory.
+1748330709: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748330709: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748330709: Error: No such file or directory.
+1748332510: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748332510: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748332510: Error: No such file or directory.
+1748334311: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748334311: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748334311: Error: No such file or directory.
+1748336112: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748336112: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748336112: Error: No such file or directory.
+1748337913: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748337913: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748337913: Error: No such file or directory.
+1748339714: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748339714: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748339714: Error: No such file or directory.
+1748341515: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748341515: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748341515: Error: No such file or directory.
+1748343316: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748343316: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748343316: Error: No such file or directory.
+1748345117: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748345117: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748345117: Error: No such file or directory.
+1748346918: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748346918: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748346918: Error: No such file or directory.
+1748348719: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748348719: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748348719: Error: No such file or directory.
+1748350520: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748350520: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748350520: Error: No such file or directory.
+1748352321: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748352321: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748352321: Error: No such file or directory.
+1748354122: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748354122: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748354122: Error: No such file or directory.
+1748355923: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748355923: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748355923: Error: No such file or directory.
+1748357724: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748357724: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748357724: Error: No such file or directory.
+1748359525: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748359525: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748359525: Error: No such file or directory.
+1748361326: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748361326: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748361326: Error: No such file or directory.
+1748363127: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748363127: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748363127: Error: No such file or directory.
+1748364928: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748364928: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748364928: Error: No such file or directory.
+1748366729: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748366729: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748366729: Error: No such file or directory.
+1748368530: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748368530: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748368530: Error: No such file or directory.
+1748370331: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748370331: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748370331: Error: No such file or directory.
+1748372132: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748372132: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748372132: Error: No such file or directory.
+1748373933: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748373933: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748373933: Error: No such file or directory.
+1748375734: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748375734: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748375734: Error: No such file or directory.
+1748377535: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748377535: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748377535: Error: No such file or directory.
+1748379336: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748379336: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748379336: Error: No such file or directory.
+1748381137: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748381137: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748381137: Error: No such file or directory.
+1748382938: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748382938: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748382938: Error: No such file or directory.
+1748384739: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748384739: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748384739: Error: No such file or directory.
+1748386540: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748386540: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748386540: Error: No such file or directory.
+1748388341: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748388341: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748388341: Error: No such file or directory.
+1748390142: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748390142: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748390142: Error: No such file or directory.
+1748391943: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748391943: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748391943: Error: No such file or directory.
+1748393744: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748393744: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748393744: Error: No such file or directory.
+1748395545: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748395545: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748395545: Error: No such file or directory.
+1748397346: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748397346: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748397346: Error: No such file or directory.
+1748399147: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748399147: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748399147: Error: No such file or directory.
+1748400948: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748400948: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748400948: Error: No such file or directory.
+1748402749: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748402749: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748402749: Error: No such file or directory.
+1748404550: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748404550: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748404550: Error: No such file or directory.
+1748406351: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748406351: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748406351: Error: No such file or directory.
+1748408152: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748408152: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748408152: Error: No such file or directory.
+1748409953: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748409953: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748409953: Error: No such file or directory.
+1748411754: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748411754: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748411754: Error: No such file or directory.
+1748413555: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748413555: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748413555: Error: No such file or directory.
+1748415356: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748415356: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748415356: Error: No such file or directory.
+1748417157: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748417157: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748417157: Error: No such file or directory.
+1748418958: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748418958: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748418958: Error: No such file or directory.
+1748420759: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748420759: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748420759: Error: No such file or directory.
+1748422560: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748422560: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748422560: Error: No such file or directory.
+1748424361: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748424361: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748424361: Error: No such file or directory.
+1748426162: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748426162: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748426162: Error: No such file or directory.
+1748427963: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748427963: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748427963: Error: No such file or directory.
+1748429764: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748429764: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748429764: Error: No such file or directory.
+1748431565: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748431565: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748431565: Error: No such file or directory.
+1748433366: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748433366: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748433366: Error: No such file or directory.
+1748435167: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748435167: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748435167: Error: No such file or directory.
+1748436968: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748436968: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748436968: Error: No such file or directory.
+1748438769: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748438769: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748438769: Error: No such file or directory.
+1748440570: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748440570: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748440570: Error: No such file or directory.
+1748442371: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748442371: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748442371: Error: No such file or directory.
+1748444172: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748444172: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748444172: Error: No such file or directory.
+1748445973: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748445973: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748445973: Error: No such file or directory.
+1748447774: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748447774: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748447774: Error: No such file or directory.
+1748449575: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748449575: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748449575: Error: No such file or directory.
+1748451376: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748451376: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748451376: Error: No such file or directory.
+1748453177: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748453177: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748453177: Error: No such file or directory.
+1748454978: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748454978: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748454978: Error: No such file or directory.
+1748456779: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748456779: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748456779: Error: No such file or directory.
+1748458580: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748458580: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748458580: Error: No such file or directory.
+1748460381: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748460381: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748460381: Error: No such file or directory.
+1748462182: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748462182: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748462182: Error: No such file or directory.
+1748463983: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748463983: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748463983: Error: No such file or directory.
+1748465784: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748465784: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748465784: Error: No such file or directory.
+1748467585: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748467585: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748467585: Error: No such file or directory.
+1748469386: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748469386: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748469386: Error: No such file or directory.
+1748471187: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748471187: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748471187: Error: No such file or directory.
+1748472988: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748472988: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748472988: Error: No such file or directory.
+1748474789: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748474789: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748474789: Error: No such file or directory.
+1748476590: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748476590: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748476590: Error: No such file or directory.
+1748478391: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748478391: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748478391: Error: No such file or directory.
+1748480192: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748480192: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748480192: Error: No such file or directory.
+1748481993: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748481993: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748481993: Error: No such file or directory.
+1748483794: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748483794: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748483794: Error: No such file or directory.
+1748485595: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748485595: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748485595: Error: No such file or directory.
+1748487396: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748487396: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748487396: Error: No such file or directory.
+1748489197: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748489197: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748489197: Error: No such file or directory.
+1748490998: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748490998: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748490998: Error: No such file or directory.
+1748492799: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748492799: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748492799: Error: No such file or directory.
+1748494600: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748494600: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748494600: Error: No such file or directory.
+1748496401: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748496401: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748496401: Error: No such file or directory.
+1748498202: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748498202: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748498202: Error: No such file or directory.
+1748500003: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748500003: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748500003: Error: No such file or directory.
+1748501804: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748501804: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748501804: Error: No such file or directory.
+1748503605: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748503605: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748503605: Error: No such file or directory.
+1748505406: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748505406: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748505406: Error: No such file or directory.
+1748507207: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748507207: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748507207: Error: No such file or directory.
+1748509008: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748509008: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748509008: Error: No such file or directory.
+1748510809: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748510809: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748510809: Error: No such file or directory.
+1748512610: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748512610: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748512610: Error: No such file or directory.
+1748514411: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748514411: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748514411: Error: No such file or directory.
+1748516212: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748516212: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748516212: Error: No such file or directory.
+1748518013: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748518013: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748518013: Error: No such file or directory.
+1748519814: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748519814: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748519814: Error: No such file or directory.
+1748521615: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748521615: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748521615: Error: No such file or directory.
+1748523416: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748523416: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748523416: Error: No such file or directory.
+1748525217: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748525217: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748525217: Error: No such file or directory.
+1748527018: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748527018: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748527018: Error: No such file or directory.
+1748528819: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748528819: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748528819: Error: No such file or directory.
+1748530620: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748530620: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748530620: Error: No such file or directory.
+1748532421: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748532421: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748532421: Error: No such file or directory.
+1748534222: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748534222: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748534222: Error: No such file or directory.
+1748536023: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748536023: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748536023: Error: No such file or directory.
+1748537824: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748537824: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748537824: Error: No such file or directory.
+1748539625: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748539625: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748539625: Error: No such file or directory.
+1748541426: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748541426: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748541426: Error: No such file or directory.
+1748543227: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748543227: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748543227: Error: No such file or directory.
+1748545028: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748545028: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748545028: Error: No such file or directory.
+1748546829: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748546829: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748546829: Error: No such file or directory.
+1748548630: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748548630: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748548630: Error: No such file or directory.
+1748550431: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748550431: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748550431: Error: No such file or directory.
+1748552232: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748552232: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748552232: Error: No such file or directory.
+1748554033: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748554033: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748554033: Error: No such file or directory.
+1748555834: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748555834: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748555834: Error: No such file or directory.
+1748557635: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748557635: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748557635: Error: No such file or directory.
+1748559436: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748559436: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748559436: Error: No such file or directory.
+1748561237: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748561237: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748561237: Error: No such file or directory.
+1748563038: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748563038: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748563038: Error: No such file or directory.
+1748564839: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748564839: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748564839: Error: No such file or directory.
+1748566640: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748566640: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748566640: Error: No such file or directory.
+1748568441: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748568441: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748568441: Error: No such file or directory.
+1748570242: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748570242: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748570242: Error: No such file or directory.
+1748572043: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748572043: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748572043: Error: No such file or directory.
+1748573844: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748573844: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748573844: Error: No such file or directory.
+1748575645: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748575645: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748575645: Error: No such file or directory.
+1748577446: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748577446: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748577446: Error: No such file or directory.
+1748579247: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748579247: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748579247: Error: No such file or directory.
+1748581048: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748581048: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748581048: Error: No such file or directory.
+1748582849: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748582849: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748582849: Error: No such file or directory.
+1748584650: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748584650: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748584650: Error: No such file or directory.
+1748586451: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748586451: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748586451: Error: No such file or directory.
+1748588252: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748588252: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748588252: Error: No such file or directory.
+1748590053: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748590053: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748590053: Error: No such file or directory.
+1748591854: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748591854: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748591854: Error: No such file or directory.
+1748593655: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748593655: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748593655: Error: No such file or directory.
+1748595456: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748595456: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748595456: Error: No such file or directory.
+1748597257: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748597257: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748597257: Error: No such file or directory.
+1748599058: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748599058: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748599058: Error: No such file or directory.
+1748600859: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748600859: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748600859: Error: No such file or directory.
+1748602660: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748602660: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748602660: Error: No such file or directory.
+1748604461: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748604461: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748604461: Error: No such file or directory.
+1748606262: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748606262: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748606262: Error: No such file or directory.
+1748608063: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748608063: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748608063: Error: No such file or directory.
+1748609864: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748609864: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748609864: Error: No such file or directory.
+1748611665: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748611665: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748611665: Error: No such file or directory.
+1748613466: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748613466: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748613466: Error: No such file or directory.
+1748615267: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748615267: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748615267: Error: No such file or directory.
+1748617068: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748617068: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748617068: Error: No such file or directory.
+1748618869: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748618869: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748618869: Error: No such file or directory.
+1748620670: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748620670: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748620670: Error: No such file or directory.
+1748622471: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748622471: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748622471: Error: No such file or directory.
+1748624272: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748624272: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748624272: Error: No such file or directory.
+1748626073: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748626073: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748626073: Error: No such file or directory.
+1748627874: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748627874: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748627874: Error: No such file or directory.
+1748629675: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748629675: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748629675: Error: No such file or directory.
+1748631476: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748631476: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748631476: Error: No such file or directory.
+1748633277: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748633277: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748633277: Error: No such file or directory.
+1748635078: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748635078: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748635078: Error: No such file or directory.
+1748636879: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748636879: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748636879: Error: No such file or directory.
+1748638680: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748638680: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748638680: Error: No such file or directory.
+1748640481: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748640481: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748640481: Error: No such file or directory.
+1748642282: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748642282: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748642282: Error: No such file or directory.
+1748644083: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748644083: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748644083: Error: No such file or directory.
+1748645884: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748645884: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748645884: Error: No such file or directory.
+1748647685: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748647685: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748647685: Error: No such file or directory.
+1748649486: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748649486: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748649486: Error: No such file or directory.
+1748651287: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748651287: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748651287: Error: No such file or directory.
+1748653088: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748653088: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748653088: Error: No such file or directory.
+1748654889: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748654889: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748654889: Error: No such file or directory.
+1748656690: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748656690: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748656690: Error: No such file or directory.
+1748658491: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748658491: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748658491: Error: No such file or directory.
+1748660292: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748660292: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748660292: Error: No such file or directory.
+1748662093: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748662093: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748662093: Error: No such file or directory.
+1748663894: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748663894: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748663894: Error: No such file or directory.
+1748665695: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1748665695: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1748665695: Error: No such file or directory.
